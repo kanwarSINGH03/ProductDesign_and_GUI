@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.openjfx:javafx-controls:18.0.1">
+    <archive path="/Users/kanwarsingh/.m2/repository/org/openjfx/javafx-controls/18.0.1/javafx-controls-18.0.1.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-controls:mac-aarch64:18.0.1">
+    <archive path="/Users/kanwarsingh/.m2/repository/org/openjfx/javafx-controls/18.0.1/javafx-controls-18.0.1-mac-aarch64.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-graphics:18.0.1">
+    <archive path="/Users/kanwarsingh/.m2/repository/org/openjfx/javafx-graphics/18.0.1/javafx-graphics-18.0.1.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-graphics:mac-aarch64:18.0.1">
+    <archive path="/Users/kanwarsingh/.m2/repository/org/openjfx/javafx-graphics/18.0.1/javafx-graphics-18.0.1-mac-aarch64.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-base:18.0.1">
+    <archive path="/Users/kanwarsingh/.m2/repository/org/openjfx/javafx-base/18.0.1/javafx-base-18.0.1.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-base:mac-aarch64:18.0.1">
+    <archive path="/Users/kanwarsingh/.m2/repository/org/openjfx/javafx-base/18.0.1/javafx-base-18.0.1-mac-aarch64.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-fxml:18.0.1">
+    <archive path="/Users/kanwarsingh/.m2/repository/org/openjfx/javafx-fxml/18.0.1/javafx-fxml-18.0.1.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-fxml:mac-aarch64:18.0.1">
+    <archive path="/Users/kanwarsingh/.m2/repository/org/openjfx/javafx-fxml/18.0.1/javafx-fxml-18.0.1-mac-aarch64.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.8.2">
+    <archive path="/Users/kanwarsingh/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar" />
+  </library>
+  <library name="Maven: org.opentest4j:opentest4j:1.2.0">
+    <archive path="/Users/kanwarsingh/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.8.2">
+    <archive path="/Users/kanwarsingh/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar" />
+  </library>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.1.2">
+    <archive path="/Users/kanwarsingh/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-engine:5.8.2">
+    <archive path="/Users/kanwarsingh/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-engine:1.8.2">
+    <archive path="/Users/kanwarsingh/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar" />
+  </library>
+  <library name="lib">
+    <archive path="/Users/kanwarsingh/Desktop/Fall 2023/CMPT 381/javafx-sdk-21/lib/javafx-swt.jar" />
+    <archive path="/Users/kanwarsingh/Desktop/Fall 2023/CMPT 381/javafx-sdk-21/lib/javafx.web.jar" />
+    <archive path="/Users/kanwarsingh/Desktop/Fall 2023/CMPT 381/javafx-sdk-21/lib/javafx.base.jar" />
+    <archive path="/Users/kanwarsingh/Desktop/Fall 2023/CMPT 381/javafx-sdk-21/lib/javafx.fxml.jar" />
+    <archive path="/Users/kanwarsingh/Desktop/Fall 2023/CMPT 381/javafx-sdk-21/lib/javafx.media.jar" />
+    <archive path="/Users/kanwarsingh/Desktop/Fall 2023/CMPT 381/javafx-sdk-21/lib/javafx.swing.jar" />
+    <archive path="/Users/kanwarsingh/Desktop/Fall 2023/CMPT 381/javafx-sdk-21/lib/javafx.controls.jar" />
+    <archive path="/Users/kanwarsingh/Desktop/Fall 2023/CMPT 381/javafx-sdk-21/lib/javafx.graphics.jar" />
+  </library>
+</eclipse-userlibraries>
+

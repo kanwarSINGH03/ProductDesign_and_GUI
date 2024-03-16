@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c80aaf86-b061-4c7b-8741-ca55c79bd461" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fall 2022/Cmpt270/.idea/Cmpt270.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fall 2022/Cmpt270/A6/A6_provided/A6_provided/A6_provided-variation-starter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fall 2022/Cmpt270/A7/A7-starter/.idea/A7-starter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fall 2022/Cmpt270/_270/_270.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/a2/ASN2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/a2/LayoutSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/a2/LayoutView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/a2/LinearLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/a2/SimWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A2_3/src/main/java/com/example/a2_3/SimWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W4_LAB/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W4_LAB/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W4_LAB/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W4_LAB/src/main/java/com/example/w4_lab/FACE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W5_LAb/src/main/java/com/example/w5_lab/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W5_LAb/src/main/java/com/example/w5_lab/GreySelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../W5_LAb/src/main/java/com/example/w5_lab/RandomColorPicker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring Summer 2022/CMPT 145(A)/.idea/CMPT 145(A).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 215/A1/a1q6.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 215/A1/assignment1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/.idea/libraries/01_ExerciseSolutions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/.idea/libraries/02_ExerciseSolutions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/.idea/libraries/04_ExerciseSolutions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/.idea/libraries/05_ExerciseSolutions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/.idea/libraries/06_ExerciseSolutions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/1/1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/10/10-ExerciseSolutions.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/10/10-dispensers.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/10/10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/10/src/ArrayedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/10/src/ArrayedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/10/src/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/10/src/LinkedNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/10/src/LinkedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/10/src/ListADT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/10/src/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/11/11-ExerciseSolutions.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/11/11-orderedbinarytrees.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/11/11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/11/src/11-ExerciseSolutions.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/11/src/BinaryNode280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/11/src/Container280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/11/src/Container280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/11/src/ContainerEmpty280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/11/src/ContainerFull280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/11/src/Cursor280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/11/src/CursorPosition280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/11/src/Dispenser280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/11/src/DuplicateItems280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/11/src/Exception280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/11/src/LinkedSimpleTree280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/11/src/Membership280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/11/src/NoCurrentItem280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/11/src/OrderedSimpleTree280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/11/src/Searchable280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/11/src/SimpleTree280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/12/12-ExerciseSolutions.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/12/12-obtdeletion.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/12/12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/12/src/12-ExerciseSolutions.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/12/src/BinaryNode280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/12/src/Container280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/12/src/Container280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/12/src/ContainerEmpty280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/12/src/ContainerFull280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/12/src/Cursor280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/12/src/CursorPosition280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/12/src/Dispenser280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/12/src/DuplicateItems280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/12/src/Exception280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/12/src/LinkedSimpleTree280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/12/src/Membership280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/12/src/NoCurrentItem280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/12/src/OrderedSimpleTree280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/12/src/Searchable280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/12/src/SimpleTree280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/2/2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/3/.idea/3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/3/3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/4/4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/5/5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/5/Lecture05/Lecture05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/6/6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/7/7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/8/08-ExerciseSolutions.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/8/08-trees.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/8/8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/8/Lecture08/Lecture08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/8/Lecture08/src/BinaryNode280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/8/Lecture08/src/Container280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/8/Lecture08/src/ContainerEmpty280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/8/Lecture08/src/LinkedSimpleTree280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/8/Lecture08/src/SimpleTree280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/9/09-ExerciseSolutions.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/9/09-treetraversals.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/9/9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/9/src/BinaryNode280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/9/src/Container280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/9/src/ContainerEmpty280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/9/src/LinkedSimpleTree280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/9/src/SimpleTree280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/A1_sub/BilinkedIterator280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/A1_sub/BilinkedList280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/A1_sub/CargoSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/A1_sub/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/A3_soln/asn3_solution.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/A3_soln/solution/ArrayedBinaryTreeWithCursors280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/A3_soln/solution/SkillTreeSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/CMPT 280/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/CMPT 280/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/CMPT 280/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/CMPT 280/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/CMPT 280/CMPT 280.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/QuestLog-Template/QuestLog-Template.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/.idea/libraries/opencsv_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/.idea/libraries/src.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 1/Assignment 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 1/asn1 (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 1/asn1_startercode.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 1/src/CargoSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 1/src/Sack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 1/src/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 2/A2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 2/asn2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 3/Assignment 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 3/asn3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 3/q2-output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 3/src/Skill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 3/src/SkillTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 4/Assignment 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 4/asn4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 4/heaptests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 4/src/AVLTree280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 4/src/ArrayedHeap280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 4/src/a4q3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 5/Assignment 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 5/a4q2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 6/Assignment 6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 6/asn6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 7/Assignment 7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 7/asn7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 7/src/KDNode280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 7/src/KDTree280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 7/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/Assignment 7/src/a7q1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/_280.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/_280Assignments/out/production/Assignment 3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/asn3_startercode/lib280-asn3/lib280-asn3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/asn4-startercode/heaptests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/asn4-startercode/lib280-asn4/lib280-asn4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/asn7-startercode/QuestPrerequisites-Template/QuestPrerequisites-Template.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/asn7-startercode/lib280-asn7/lib280-asn7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn1/lib280-asn1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/lib280-asn3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/base/BasicDict280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/base/BilinearIterator280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/base/Container280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/base/Cursor280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/base/CursorPosition280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/base/CursorSaving280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/base/Dispenser280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/base/LinearIterator280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/base/Membership280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/base/Pair280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/base/Searchable280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/dictionary/Dict280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/exception/AfterTheEnd280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/exception/BeforeTheStart280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/exception/Container280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/exception/ContainerEmpty280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/exception/ContainerFull280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/exception/DuplicateItems280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/exception/Exception280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/exception/InvalidArgument280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/exception/InvalidState280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/exception/ItemNotFound280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/exception/Iterator280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/exception/NoCurrentItem280Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/list/ArrayedList280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/list/ArrayedListIterator280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/list/BilinkedIterator280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/list/BilinkedList280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/list/BilinkedNode280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/list/LinkedIterator280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/list/LinkedList280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/list/LinkedNode280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/list/SimpleList280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/tree/ArrayedBinaryTree280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/tree/ArrayedBinaryTreePosition280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/tree/ArrayedBinaryTreeWithCursors280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/tree/BasicMAryTree280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/tree/BinaryNode280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/tree/LinkedSimpleTree280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/tree/MAryIterator280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/tree/MAryNode280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn3/src/lib280/tree/SimpleTree280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn4/lib280-asn4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn5/lib280-asn5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Winter 2023/CMPT 280/lib280-asn6/lib280-asn6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CMPT 145(A)/A5Provided/a5q1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CMPT 145(A)/A5Provided/a5q2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CMPT 145(A)/A5Provided/a5q2_testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CMPT 145(A)/A5Provided/a5q3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CMPT 145(A)/A5Provided/a5q3_testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CMPT 145(A)/A5Provided/a5q4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CMPT 145(A)/A5Provided/a5q4_testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CMPT 145(A)/A5Provided/a5q5_Container.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CMPT 145(A)/A5Provided/a5q5_Queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CMPT 145(A)/LList.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CMPT 145(A)/a1q2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CMPT 145(A)/a1q3final.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CMPT 145(A)/a2q2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CMPT 145(A)/a2q3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CMPT 145(A)/a3q3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CMPT 145(A)/a3q4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CMPT 145(A)/a4q3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CMPT 145(A)/a4q4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CMPT 145(A)/a4q4_testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CMPT-145/a1q2.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JavaFXApplication" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2W3SJxdPu4wk7ZlXszZQSdRvA2U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/kanwarsingh/Desktop/Fall 2023/CMPT 381/A2",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/a2" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.a2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LayoutSimulator">
+    <configuration name="ChangingFace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.a2.ChangingFace" />
+      <module name="A2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.a2.HelloApplication" />
+      <module name="A2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.a2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LayoutSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.a2.LayoutSimulator" />
+      <module name="A2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.a2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LayoutView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.a2.LayoutView" />
+      <module name="A2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.a2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearLayout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.a2.LinearLayout" />
+      <module name="A2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.a2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LayoutSimulator" />
+        <item itemvalue="Application.LayoutView" />
+        <item itemvalue="Application.LinearLayout" />
+        <item itemvalue="Application.ChangingFace" />
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c80aaf86-b061-4c7b-8741-ca55c79bd461" name="Changes" comment="" />
+      <created>1695959702277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695959702277</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
